@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(193, 250, 202);
+}
+
+.form{
+    width: 40%;
+    text-align: center;
+    height: 60%;
+    border-radius: 20px;
+    background-color:rgb(1, 126, 84);
+    position: absolute;
+    padding-top: 70px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
